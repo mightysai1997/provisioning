@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.19.3
 
 MAINTAINER Pier Luigi Fiorini <pierluigi.fiorini@gmail.com>
 
